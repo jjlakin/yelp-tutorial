@@ -1,4 +1,4 @@
-require 'rails helper'
+require 'rails_helper'
 
 feature 'restaurants' do
 	context 'no restaurants have been added' do
